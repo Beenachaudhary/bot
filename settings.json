@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NG-NETWORK.aternos.me",
-    "port": 45493,
+    "ip": "fakelapataop.aternos.me",
+    "port": 43833,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
